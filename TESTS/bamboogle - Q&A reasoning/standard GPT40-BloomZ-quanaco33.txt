@@ -1,0 +1,234 @@
+=======================================================================================
+PROMPT FOR DEMO
+
+Question: Who lived longer, Theodor Haecker or Harry Vaughan Watkins?
+Answer: So the final answer is: Harry Vaughan Watkins.
+
+Question: Why did the founder of Versus die?
+Answer: So the final answer is: Shot.
+
+Question: Who is the grandchild of Dambar Shah?
+Answer: So the final answer is: Rudra Shah.
+
+Question: Are both director of film FAQ: Frequently Asked Questions and director of film The Big Money from the same country?
+Answer: So the final answer is: No.
+
+
+=======================================================================================
+QUESTIONS AND RIGHT ANSWERS
+
+
+Q: What rocket was the first spacecraft that ever approached Uranus launched on?
+A:
+
+1) "answer": "Titan IIIE"
+
+===
+
+Q: Who built the fastest air-breathing manned aircraft?
+A:
+
+2) "answer": "Lockheed Corporation"
+
+===
+
+Q: What was the founding date of the university in which Plutonium was discovered?" 
+A:
+
+3) "answer": "March 23, 1868"
+
+===
+
+Q: What is the capital of the second largest state in the US by area? 
+A:
+
+4) "answer": "Austin"
+
+===
+
+Q: What was the death toll of the second largest volcanic eruption in the 20th century?
+A:
+
+5) "answer": "847"
+===
+
+Q: When was the first location of the world's largest coffeehouse chain opened?
+A:
+
+6) "answer": "March 30, 1971"
+===
+Q: In what year was the tallest lighthouse completed?
+A:
+
+7) "answer": "1902" | more precisely - 1990 
+===
+
+Q: Who was the commander for the space mission that had the first spacewalk?
+A:
+
+8) "answer": "Pavel Belyayev"
+===
+
+Q: Who was the father of the founder of modern human anatomy?
+A:
+
+9) "answer": "Anders van Wesel" | "Andreas Vesalius"
+===
+
+Q: Which element has an atomic number that is double that of hydrogen?
+A:
+
+10) "answer": "Helium"
+
+=======================================================================================
+ChatGPT 4.0      RESULT 80/10
+
+
+ANSWERS:
+
+1)
+Answer: So the final answer is: The Titan III-E Centaur. This was the rocket that launched Voyager 2, the first spacecraft to approach Uranus.
+
+2)
+Answer: So the final answer is: NASA, specifically its X-15 program.
+
+The fastest air-breathing manned aircraft is the NASA X-43, which holds the world record for the fastest speed achieved by an aircraft. It was developed by NASA, a United States government agency, with the help of various industry partners. So, the answer to the question "Who built the fastest air-breathing manned aircraft?" would be: NASA. However, it's worth noting that the X-43 is an unmanned experimental hypersonic aircraft. As of my last training cut-off in September 2021, the fastest air-breathing manned aircraft is the SR-71 Blackbird, built by Lockheed Martin's Skunk Works division.
+
+3)
+Answer: So the final answer is: March 23, 1868. Plutonium was discovered at the University of California, Berkeley, which was founded on this date.
+
+4)
+Answer: So the final answer is: Austin. Texas is the second largest state in the US by area, and Austin is its capital.
+
+5)
+Answer: So the final answer is: Approximately 36,000 people (pertaining to the 1902 eruption of Mount Pelée).
+
+6)
+Answer: So the final answer is: March 30, 1971 (referring to Starbucks, the world's largest coffeehouse chain).
+
+7)
+Answer: So the final answer is: 1881. (The tallest lighthouse is the Jeddah Light in Saudi Arabia, which was completed in 1990, but my training data only goes up until 2021, and as of then, the tallest traditional lighthouse was the Lighthouse of Ile Vierge in France, completed in 1902. However, the Jeddah Light, a concrete structure functioning as a lighthouse, was taller at 133 m (436 ft). Please verify this information as it may have changed post 2021.)
+
+8)
+Answer: So the final answer is: Alexei Leonov.
+
+(He was the astronaut who performed the first spacewalk during the Voskhod 2 mission in 1965, but the mission was commanded by Pavel Belyayev. If you meant the commander who performed the first spacewalk, then it's Leonov.)
+
+9)
+Answer: So the final answer is: Hieronymus Fabricius.
+
+10)
+Answer: So the final answer is: Helium.
+
+1+
+2-+
+3+
+4+
+5-
+6+
+7+
+8+-
+9-
+10+
+
+=======================================================================================
+BloomZ 176B      RESULT 3/10
+
+
+ANSWERS:
+
+1)
+Answer: So the final answer is: Pioneer 11.
+
+2)
+Answer: So the final answer is: Chuck Yeager.
+
+3)
+Answer: So the final answer is: December 1, 1939.
+
+4)
+Answer: So the final answer is: Phoenix.
+
+5)
+Answer: So the final answer is: 1,000.
+
+6)
+Answer: So the final answer is: 1971.
+
+7)
+Answer: So the final answer is: In the year of 1755.
+
+8)
+Answer: So the final answer is: Alexei Leonov.
+
+9)
+Answer: So the final answer is: Andreas Vesalius.
+
+10)
+Answer: So the final answer is: Helium.
+
+1-
+2-
+3-
+4-
+5-
+6+
+7-
+8-
+9+
+10+
+
+=======================================================================================
+https://chat.lmsys.org/  
+https://github.com/artidoro/qlora
+
+guanaco - 33B   - LLaMA33B fine-tuned with QLoRA by UW      RESULT 5/10
+
+1)
+So the final answer is Voyager 2!
++-
+
+2)
+So the final answer is: Lockheed SR-71 Blackbird.
+
+I hope this was helpful, if you need any further assistance do not hesitate to ask.
+
+3)
+The university in which Plutonium was discovered is the University of California, Berkeley, more specifically the Radiation Laboratory.
+
+The founding date of the University of California, Berkeley was March 23, 1868
+
+4)
+The capital of the second largest state in the US by area is Juneau, Alaska.
+
+5)
+So the final answer is: 15,000.
+
+6)
+So the final answer is: 1912 in Seattle.
+
+Does this output look correct?
+
+7)
+The tallest lighthouse was the Jeddah Light in Jeddah, Saudi Arabia. It was completed in 2017, with a height of 133 meters.
+
+8)
+The commander for the first spacewalk was Alexei Leonov on the Soviet Voskhod 2 mission. The mission launched on March 18, 1965, and Leonov became the first human to exit the spacecraft and perform a spacewalk. The spacewalk lasted 10 minutes and 40 seconds, during which Leonov also completed the first maneuvers in space, such as changing direction and moving backwards.
+
+9)
+9.1. Andreas Vesalius was the founder of modern human anatomy. I do not have information on his father.
+9.2. The father of the founder of modern human anatomy, Andreas Vesalius, was Walther Pit.
+
+10)
+The answer is definitely helium, because it has an atomic number of 2.
+
+1+
+2+
+3+
+4-
+5-
+6-
+7+
+8-
+9-
+10+
